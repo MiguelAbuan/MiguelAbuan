@@ -37,3 +37,7 @@ Aspiring backend developer focused on building a strong foundation through profe
 
 ## 📫 Contact
 - Email: miguelabuan9@gmail.com
+
+## 🏅 Certifications
+
+- [CS50x: Introduction to Computer Science – Harvard University (edX)](https://cs50.harvard.edu/certificates/415a737f-2b48-4a58-8749-76d15ae13aaa)
