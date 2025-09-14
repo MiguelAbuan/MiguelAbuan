@@ -26,18 +26,7 @@ Aspiring backend developer focused on building a strong foundation through self-
   <img src="https://img.icons8.com/ios-glyphs/480/ffffff/github.png" width="40" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </p>
-
-## 🚀 Project Roadmap (Learning Path)  
-I’m following a **phase-based project plan**, where each phase upgrades the same system into something stronger and more professional:  
-
-- **Phase 1** → Core API with CRUD + Authentication (freelance-ready base)  
-- **Phase 2** → Add databases, caching, background jobs  
-- **Phase 3** → Secure deployment with Docker, Nginx, SSL  
-- **Phase 4** → API hardening & security practices (OWASP Top 10)  
-- **Phase 5** → SaaS features: subscriptions, roles, notifications  
-- **Phase 6** → Multi-tenant system design + monitoring + scaling  
-
-Each phase = **portfolio project + freelance skill + step toward cybersecurity-ready systems**  
+ 
 
 ## 🧠 Learning Goals
 - Master backend development through **hands-on projects**  
